@@ -182,6 +182,7 @@ Plugins which affect the final output of a bundle.
 - [concatfiles](https://github.com/kpulkit29/rollup-plugin-concatfiles) - Concatenate files to bundle or other files.
 - [copy](https://github.com/meuter/rollup-plugin-copy) - Copy files during a build.
 - [copy-assets](https://github.com/bengsfort/rollup-plugin-copy-assets) - Copy specified assets to the output directory.
+- [copy-multiple-assets](https://github.com/m00nbyte/rollup-plugin-copy-multiple-assets) - Copies files and directories from multiple sources to several destinations.
 - [cpy](https://github.com/paulmelnikow/rollup-plugin-cpy) - Easily copy files and folders during a build.
 - [copy-smartly](https://github.com/TrickyPi/rollup-copy-smartly) - Smartly copy files if they are changed, created or deleted.
 - [delete](https://github.com/vladshcherbin/rollup-plugin-delete) - Delete files and folders during a build.
